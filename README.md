@@ -1,1 +1,1 @@
-# rsschool-cv
+https://verabey.github.io/rsschool-cv/cv
