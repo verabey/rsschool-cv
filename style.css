@@ -1,3 +1,51 @@
-p {
-    font-weight: bold; 
+ p {
+    font-family: Arial; 
+    font-weight: lighter;
  }
+
+ h1, h2 {
+    font-family: 'Unbounded', cursive;
+    color: white;
+ }
+
+ #maket {
+    width: 100%; /* Ширина всей таблицы */
+   }
+   TD {
+    vertical-align: top; /* Вертикальное выравнивание в ячейках */
+    padding-left: 40px; /* Поля вокруг ячеек */
+    padding-top: 20px;
+   }
+   TD#leftcol {
+    width: 320px; /* Ширина левой колонки */
+    background: rgb(62, 61, 61); /* Цвет фона левой колонки */
+   }
+   TD#rightcol {
+    background: #ff0090; /* Цвет фона правой колонки */
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+   }
+
+ #skills {
+    width: 100%;
+   }
+   TD {
+    vertical-align: top;
+    padding-left: 40px;
+    padding-top: 20px;
+   }
+   TD#professionals {
+    width: 50px;
+   }
+   TD#basics {
+    width: 50px;
+   }
+
+a {
+   color: #ff0090;
+}
+
+#rectangle {
+   color: #ff0090;
+}
