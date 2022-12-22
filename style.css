@@ -18,7 +18,7 @@
    }
    TD#leftcol {
     width: 320px; /* Ширина левой колонки */
-    background: rgb(0, 0, 0); /* Цвет фона левой колонки */
+    background: rgb(62, 61, 61); /* Цвет фона левой колонки */
    }
    TD#rightcol {
     background: #ff0090; /* Цвет фона правой колонки */
@@ -43,5 +43,9 @@
    }
 
 a {
+   color: #ff0090;
+}
+
+#rectangle {
    color: #ff0090;
 }
