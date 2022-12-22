@@ -5,6 +5,7 @@
 
  h1, h2 {
     font-family: 'Unbounded', cursive;
+    color: white;
  }
 
  #maket {
@@ -16,12 +17,12 @@
     padding-top: 20px;
    }
    TD#leftcol {
-    width: 319px; /* Ширина левой колонки */
-    background: #ccc; /* Цвет фона левой колонки */
+    width: 320px; /* Ширина левой колонки */
+    background: rgb(0, 0, 0); /* Цвет фона левой колонки */
    }
    TD#rightcol {
-    background: #ffe6f0; /* Цвет фона правой колонки */
-    padding-top: 40px;
+    background: #ff0090; /* Цвет фона правой колонки */
+    padding-top: 10px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: x-large;
    }
@@ -40,3 +41,7 @@
    TD#basics {
     width: 50px;
    }
+
+a {
+   color: #ff0090;
+}
